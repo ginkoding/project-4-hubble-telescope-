@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+}
+
+#space {
+  width: 350px;
+  height: 264px;
+  border-radius: 20px 20px 0px 0px;
+}
+
+#hubble {
+  font-size: 30px;
+  text-transform: capitalize;
+  font-weight: bold;
+  margin: 7px 0px 0px 0px;
+}
+
+.category {
+  font-size: 12px;
+  color: blue;
+  margin-bottom: 0px;
+}
+
+.card-text {
+  height: 240px;
+  padding: 15px 15px 15px 30px;
+  color: rgb(63, 63, 63);
+}
+
+.card {
+  width: 350px;
+  margin: 15px;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+p {
+  margin-top: 10px;
+}
